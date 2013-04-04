@@ -3,3 +3,5 @@
 	email = zipper@medde.ru
 [color]
 	ui = true
+[http]
+	sslVerify = false

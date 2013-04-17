@@ -5,3 +5,5 @@
 	ui = true
 [http]
 	sslVerify = false
+[core]
+	excludesfile = ~/.gitignore_g

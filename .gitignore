@@ -3,6 +3,7 @@
 !/.bash_profile
 !/.bin/
 !/.gitignore
+!/.gitignore_g
 !/.gitmodules
 !/.gitconfig
 !/.gvimrc

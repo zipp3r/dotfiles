@@ -1,3 +1,7 @@
+#local .bashrc include
+if [ -f ~/.bashrc ]; then
+	. ~/.bashrc
+fi
 # setup color variables
 color_is_on=
 color_red=

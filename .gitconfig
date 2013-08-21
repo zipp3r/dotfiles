@@ -7,3 +7,4 @@
 	sslVerify = false
 [core]
 	excludesfile = ~/.gitignore_g
+	mergeoptions = --no-edit

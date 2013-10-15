@@ -2,6 +2,10 @@
 if [ -f ~/.bashrc ]; then
 	. ~/.bashrc
 fi
+#UTF characters
+export LANG=ru_RU.UTF-8
+export LC_ALL=ru_RU.UTF-8
+
 # setup color variables
 color_is_on=
 color_red=
